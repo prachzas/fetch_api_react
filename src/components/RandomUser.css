@@ -1,0 +1,20 @@
+.person-data{
+    color: beige;
+    border-radius: 10px;
+    border: 3px solid #BADA55;
+    position: absolute;
+    width: auto;
+    padding: 5px;
+    top: 40%;
+    left: 50%;
+    margin-top: -50px; /* -(height/2) */
+    margin-left: -100px; /* -(width/2) */
+}
+img{
+    size: 40%;
+    border-radius: 50%;
+    border: 3px solid #BADA55;
+}
+body{
+    background-color: #333;
+}
